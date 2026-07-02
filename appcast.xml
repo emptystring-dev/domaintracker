@@ -11,14 +11,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/emptystring-dev/domaintracker/releases/download/v1.6.1/DomainTracker-1.6.1.zip" length="4954410" type="application/octet-stream" sparkle:edSignature="a3iqvvn7M17ULRdTeXMKck5cvOf1gjhIjMe1aP+JpP31SQbg3Lu3K6pzjcV9+129m/l+rn9TDzOeFTvubILmBQ=="/>
+            <enclosure url="https://github.com/emptystring-dev/domaintracker/releases/download/v1.6.1/DomainTracker-1.6.1.zip" length="4954374" type="application/octet-stream" sparkle:edSignature="8ur4yUCcj52E3C8+0h3GJHbUci9OYvDgY+SNwK1n3UxECi73z+yIwErQ+2b41INKpcLg2GD48+vQlZZhg2OjBQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/emptystring-dev/domaintracker/releases/download/v1.6.1/DomainTracker7-6.delta" sparkle:deltaFrom="6" length="13222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bkFqbLagY1uVbs7J7awP2Erba0DlSyOMwoI0h3bHp2JNZyrstfEdDAPvKuW27yyaVouca5pwNWkZkeMGTLzTCA=="/>
+                <enclosure url="https://github.com/emptystring-dev/domaintracker/releases/download/v1.6.1/DomainTracker7-6.delta" sparkle:deltaFrom="6" length="13262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zsrOXMaLaVYNB4vQuSwf8m9heuLHnC+Qts4ITUI3X0l0QZn2bLfN/mOZ4MezRDniRRvPea/pVif57QFQVyL6BQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: +ViDSK5/amwauDfcyI/K6VRfnINV3gARwM+vBJ5vifLAiJtTIyZg6kXJ0rdznvixYZQF7c0L3IVwQT0aJUNKAA==
+edSignature: z6QYzeqAqdTIDWzXrsqyOrj9kof9Ih4X6W7lE0QhecfKCTdmQCIRMTUbdMQ5FpQxJcli1q8Y3iQWJyHiFVRMBA==
 length: 1529
 -->
