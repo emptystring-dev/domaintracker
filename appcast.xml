@@ -6,20 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>DomainTracker</title>
         <item>
-            <title>1.9.1</title>
-            <pubDate>Thu, 16 Jul 2026 21:32:31 +0000</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.9.1</sparkle:shortVersionString>
+            <title>1.9.3</title>
+            <pubDate>Mon, 20 Jul 2026 18:06:13 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.9.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/emptystring-dev/domaintracker/releases/download/v1.9.1/DomainTracker-1.9.1.zip" length="5649162" type="application/octet-stream" sparkle:edSignature="D2+5vsSJoMLQZhpn/ZWhq/KA/nx+fjNBGGUztPy5nr+EytMvH8MpFe7w4CvBNfP0r5sH71i6QsJZRRN1kaWVBQ=="/>
+            <enclosure url="https://github.com/emptystring-dev/domaintracker/releases/download/v1.9.3/DomainTracker-1.9.3.zip" length="5655796" type="application/octet-stream" sparkle:edSignature="JspvrKBsdoq45TSKoGHWJkOXSq2eKNJPYAbNiHZUESXcjPgLZH3z9z17C2ir/C5QV0/GHF9eXb6+CxvO/WhyCw=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/emptystring-dev/domaintracker/releases/download/v1.9.1/DomainTracker18-17.delta" sparkle:deltaFrom="17" length="565406" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="R6/4pNtDMvXZp6l/vR9OrdjjzwFRbv/Hk9mypfepXzS+4/4YTZa704+0jMGaT4fJTu49R/IgNn3gZZKiZwDRDg=="/>
-                <enclosure url="https://github.com/emptystring-dev/domaintracker/releases/download/v1.9.1/DomainTracker18-16.delta" sparkle:deltaFrom="16" length="753606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vowjgToZ0MAV3i3P0mYMSes52E7GcRMwiH7n91SfYwSjxlowX4iMRbYfMFWG1P47fLgbaqsFq27WfVicR1rDDQ=="/>
+                <enclosure url="https://github.com/emptystring-dev/domaintracker/releases/download/v1.9.3/DomainTracker20-18.delta" sparkle:deltaFrom="18" length="2191106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="b+w5hYVnMKN/XKJx1S/ctQQTjh5rz2o9AfooFZOB0i/Tam6dr2hIIY3Nz36EuOGd0uE/NGaaqLqGcDyhWoqtAw=="/>
+                <enclosure url="https://github.com/emptystring-dev/domaintracker/releases/download/v1.9.3/DomainTracker20-17.delta" sparkle:deltaFrom="17" length="2379662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vpHBKM7ztW2XNswDI+Vg+i5akB7gRf47zwvKb3H5BDHRzrkknG6WWGl/epN7Ayu1pgY6rJIFkliQjoq8VYtvAg=="/>
             </sparkle:deltas>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: a9PctS8Ckhyku2HvZ3XXfaRhj7w7dDXZtaTtf4GoXeupxUfhW0pDhR3pkgdEg4LIraYMGB5r2XlF8c2+vmLUBg==
-length: 1953
+edSignature: Zw/lnoT9xtoTkL7fFUk4OJ6Tl1k+xpBHp7jhaIWhyjC0GE+y/OFe2jL32hgFcSQ97Xn9NzpI5z8ZOMhZ1/4ZDA==
+length: 1955
 -->
